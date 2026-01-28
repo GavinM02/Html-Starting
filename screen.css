@@ -1,4 +1,14 @@
 /* Add screen styles below */
-a.active {
-    font-weight: bold;
+body{
+    background: #03045E
+}
+
+.card {
+    background: #0077B6;
+    margin: 0 auto;
+    width: 500px;
+}
+
+h1 {
+    background: #90E0EF;
 }
